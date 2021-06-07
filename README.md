@@ -2,6 +2,10 @@
 
 IOS Apps Movie DB for Technical Assesment
 
+Github : 
+
+Project folder compressed
+
 Requirement : 
 
 1. Device : Iphone
